@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Costopoulos
+- 👋 Hi, I’m Konstantinos Kostopoulos
 - 👀 I’m interested in Computer Science, AI, Software Engineering and -Dev, Game Dev, IT, Control Theory on Robotics
 - 🌱 I’m currently learning ROS, openCV, NodeJS, ReactJS
 - 💞️ I’m looking to collaborate on all of the above
