@@ -38,7 +38,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Questdb-logo.svg" alt="questdb" width="40" height="40"/>
   </a>
   <a href="https://sqlite.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="70" height="40"/>
   </a> 
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
@@ -97,7 +97,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="ejs" width="40" height="40"/> 
   </a>
   <a href="https://unity.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="70" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="80" height="40"/> 
   </a>
   <a href="https://flink.apache.org/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_flink_logo_icon_168620.png" alt="flink" width="40" height="40"/> 
