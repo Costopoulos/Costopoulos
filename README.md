@@ -72,11 +72,62 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-    <a href="https://grafana.com" target="_blank"> 
+  <a href="https://ubuntu.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="ubuntu" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://opencv.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ros.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="70" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="70" height="40"/> 
+  </a>
+  <a href="https://ejs.co/" target="_blank"> 
+    <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="ejs" width="40" height="40"/> 
+  </a>
+  <a href="https://unity.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="70" height="40"/> 
+  </a>
+  <a href="https://flink.apache.org/" target="_blank"> 
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_flink_logo_icon_168620.png" alt="flink" width="40" height="40"/> 
+  </a>
+  <a href="https://pulsar.apache.org/" target="_blank"> 
+    <img src="https://streamnative.io/uploads/images/learn/pulsar-logo.svg" alt="pulsar" width="40" height="50"/> 
+  </a>
+  <a href="https://scikit-learn.org/stable/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="55" height="50"/> 
+  </a>
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf2" width="40" height="40"/> 
+  </a>
+  <a href="https://protege.stanford.edu/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/2002036/31841863-4d5774d2-b5e3-11e7-857f-bc0f1b00bb0e.jpg" alt="protege" width="40" height="40"/> 
+  </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> 
+  </a>
+  <a href="https://grafana.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> 
   </a>
 </p>
   
