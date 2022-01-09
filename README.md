@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Control Theory, Robotics, Computer Vision, Software and Game Dev
-- 🌱 I’m currently learning Machine Learning, Neural Networks, Deep Learning, Apache Pulsar&Flink and Grafana 
+- 🌱 I’m currently learning ML, Neural Networks, DeepL, QuestDB, Apache Pulsar&Flink and Grafana 
 - 🔭 I’m currently working on Computer Vision, using C++ & openCV, as well as a dash of CUDA
 - :soon: Starting my Master's Thesis on Hamilton-Jacobi Reachability
 - 📫 How to reach me: costopoulos.constantinos@gmail.com
