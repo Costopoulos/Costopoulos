@@ -33,9 +33,6 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
-  <a href="https://questdb.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Questdb-logo.svg" alt="questdb" width="40" height="40"/>
-  </a>
   <a href="https://sqlite.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="70" height="40"/>
   </a> 
@@ -98,12 +95,6 @@
   <a href="https://unity.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="80" height="40"/> 
   </a>
-  <a href="https://flink.apache.org/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_flink_logo_icon_168620.png" alt="flink" width="40" height="40"/> 
-  </a>
-  <a href="https://pulsar.apache.org/" target="_blank"> 
-    <img src="https://streamnative.io/uploads/images/learn/pulsar-logo.svg" alt="pulsar" width="40" height="50"/> 
-  </a>
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="55" height="50"/> 
   </a>
@@ -118,9 +109,6 @@
   </a>
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <a href="https://grafana.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
