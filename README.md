@@ -39,11 +39,14 @@
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a>
-  <a href="https://www.r-project.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="RLang" width="40" height="40"/> 
-  </a>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+  </a>
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="RLang" width="40" height="40"/> 
   </a>
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="javascript" width="40" height="40"/> 
@@ -53,9 +56,6 @@
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/el/d/d0/Java.svg" alt="java" width="40" height="40"/> 
@@ -106,6 +106,9 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf2" width="40" height="40"/> 
+  </a>
+  <a href="https://www.rstudio.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="80" height="40"/> 
   </a>
   <a href="https://protege.stanford.edu/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/2002036/31841863-4d5774d2-b5e3-11e7-857f-bc0f1b00bb0e.jpg" alt="protege" width="40" height="40"/> 
