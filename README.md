@@ -1,9 +1,9 @@
 ### Hi there 👋 I’m Constantinos!
 
-
-- 👀 I’m interested in Control Theory, Robotics, Computer Vision, Software Engineering and Game Dev
-- 🌱 I’m currently learning QuestDB, Apache Pulsar&Flink and Grafana 
-- 🔭 I’m currently working on my Master's Thesis on Reachability Analysis with Reinforcement Learning
+- 🏢 Co-Founder of Mind the Path, a startup that was forged after winning the <a href="https://www.cassini.eu/hackathons/winners-May-2022" target="_blank">3rd EU CASSINI Hackathon</a> on April, 2022.
+- 👀 I’m interested in Control Theory, Aerospace Engineering, Robotics, Computer Vision and Software Engineering
+- 🔭 I’m currently working on my Master's Thesis on Reachability Analysis with Reinforcement Learning in Georgia Tech's Aerospace School, Atlanta, GA, USA
+- 🌱 I’m currently learning Japanese and soon will be working in Tokyo :japan::jp: 
 - 📫 How to reach me: costopoulos.constantinos@gmail.com
 
 
@@ -38,6 +38,9 @@
   </a> 
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+  </a>
+  <a href="https://www.r-project.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="RLang" width="40" height="40"/> 
   </a>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
