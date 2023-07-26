@@ -1,9 +1,9 @@
 ### Hi there 👋 I’m Constantinos!
 
-- 🏢 Co-Founder of Mind the Path, a startup that was forged after winning the <a href="https://www.cassini.eu/hackathons/winners-May-2022" target="_blank">3rd EU CASSINI Hackathon</a> on April, 2022.
-- 👀 I’m interested in Control Theory, Aerospace Engineering, Robotics, Computer Vision and Software Engineering
-- 🔭 I’m currently working on my Master's Thesis on Reachability Analysis with Reinforcement Learning in Georgia Tech's Aerospace School, Atlanta, GA, USA
-- 🌱 I’m currently learning Japanese and soon will be working in Tokyo :japan::jp: 
+- 🏢 Co-Founder of Overpath, a startup that was forged after winning the <a href="https://www.cassini.eu/hackathons/winners-May-2022" target="_blank">3rd EU CASSINI Hackathon</a> on April, 2022.
+- 👀 I’m interested in Control Theory, Aerospace Engineering, Robotics, Computer Vision, Software Engineering and Business
+- 🔭 I just finished writing my Master's Thesis on Reachability Analysis with Reinforcement Learning in Georgia Tech's Aerospace School, Atlanta, GA, USA
+- 🌱 I’m currently learning Japanese and am working in Tokyo :japan::jp: 
 - 📫 How to reach me: costopoulos.constantinos@gmail.com
 
 
@@ -23,7 +23,10 @@
   </a>
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python3" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
+  </a>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -38,9 +41,6 @@
   </a> 
   <a href="https://mariadb.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
@@ -120,7 +120,16 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> 
+    <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-768x432.png" alt="docker" width="80" height="40"/> 
+  </a>
+  <a href="https://camel.apache.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Apache_Camel_Logo.svg" alt="camel" width="120" height="120"/> 
+  </a>
+  <a href="https://camel.apache.org/camel-k/2.0.x/" target="_blank"> 
+    <img src="https://camel.apache.org/_/img/knative-81c3109183.svg" alt="camelk" width="60" height="120"/> 
+  </a>
+  <a href="https://github.com/apache/camel-karavan" target="_blank"> 
+    <img src="https://camel.apache.org/blog/2022/04/camel-karavan-0.0.14/karavan-logo-light.png" alt="camelkaravan" width="120" height="50"/> 
   </a>
 </p>
   
