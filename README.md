@@ -116,21 +116,45 @@
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> 
   </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/iam/" target="_blank"> 
+    <img src="https://i0.wp.com/in4it.io/wp-content/uploads/2020/07/AWS-Identity-and-Access-Management_IAM.png?w=300&ssl=1" alt="iam" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank"> 
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--o9jchbR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://day-journal.com/memo/images/logo/aws/s3.png" alt="s3" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank"> 
+    <img src="https://cdn.romexsoft.com/wp-content/uploads/2020/09/Amazon-API-Gateway.svg" alt="apigw" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/422px-Amazon_Lambda_architecture_logo.svg.png?20211111143003" alt="lambda" width="40" height="40"/> 
+  </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-768x432.png" alt="docker" width="80" height="40"/> 
   </a>
+  <a href="https://kubernetes.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png?20171007185746" alt="kubernetes" width="120" height="40"/> 
+  </a>
   <a href="https://camel.apache.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Apache_Camel_Logo.svg" alt="camel" width="120" height="120"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Apache_Camel_Logo.svg" alt="camel" width="140" height="40"/> 
   </a>
   <a href="https://camel.apache.org/camel-k/2.0.x/" target="_blank"> 
-    <img src="https://camel.apache.org/_/img/knative-81c3109183.svg" alt="camelk" width="60" height="120"/> 
+    <img src="https://camel.apache.org/_/img/knative-81c3109183.svg" alt="camelk" width="60" height="40"/> 
   </a>
   <a href="https://github.com/apache/camel-karavan" target="_blank"> 
-    <img src="https://camel.apache.org/blog/2022/04/camel-karavan-0.0.14/karavan-logo-light.png" alt="camelkaravan" width="120" height="50"/> 
+    <img src="https://camel.apache.org/blog/2022/04/camel-karavan-0.0.14/karavan-logo-light.png" alt="camelkaravan" width="120" height="40"/> 
   </a>
+  <a href="https://www.openfaas.com/" target="_blank"> 
+    <img src="https://blog.alexellis.io/content/images/2017/08/faas_side.png" alt="openfaas" width="120" height="40"/> 
+  </a>
+<!--   <a href="https://github.com/apache/camel-karavan" target="_blank"> 
+    <img src="https://camel-karavan.gallerycdn.vsassets.io/extensions/camel-karavan/karavan/3.21.0/1688902428647/Microsoft.VisualStudio.Services.Icons.Default" alt="camelkaravan" width="50" height="80"/> 
+  </a> -->
 </p>
   
 
