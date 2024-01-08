@@ -2,7 +2,6 @@
 
 - 🏢 Co-Founder of Overpath, a startup that was forged after winning the <a href="https://www.cassini.eu/hackathons/winners-May-2022" target="_blank">3rd EU CASSINI Hackathon</a> on April, 2022.
 - 👀 I’m interested in Software, Cloud, Aerospace Engineering, Control Theory & Robotics, Computer Vision and Business
-- 🔭 I just finished writing my Master's Thesis on Reachability Analysis with Reinforcement Learning in Georgia Tech's Aerospace School, Atlanta, GA, USA
 - 🌱 I’m currently on my way to obtaining N2 (C1 equivalent) in Japanese and am working in Tokyo as an R&D Cloud Engineer :japan::jp: 
 - 📫 How to reach me: costopoulos.constantinos@gmail.com
 
