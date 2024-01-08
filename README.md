@@ -59,14 +59,7 @@
   </a>
   <a href="https://www.java.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/el/d/d0/Java.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="40" height="40"/>
-  </a>
-  
+  </a>   
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -119,17 +112,11 @@
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="aws" width="40" height="40"/> 
   </a>
-  <a href="https://aws.amazon.com/iam/" target="_blank"> 
-    <img src="https://i0.wp.com/in4it.io/wp-content/uploads/2020/07/AWS-Identity-and-Access-Management_IAM.png?w=300&ssl=1" alt="iam" width="40" height="40"/> 
+  <a href="https://azure.microsoft.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> 
   </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank"> 
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--o9jchbR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://day-journal.com/memo/images/logo/aws/s3.png" alt="s3" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/api-gateway/" target="_blank"> 
-    <img src="https://cdn.romexsoft.com/wp-content/uploads/2020/09/Amazon-API-Gateway.svg" alt="apigw" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/422px-Amazon_Lambda_architecture_logo.svg.png?20211111143003" alt="lambda" width="40" height="40"/> 
+  <a href="https://cloud.google.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="gcp" width="80" height="40"/> 
   </a>
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
