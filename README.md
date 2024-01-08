@@ -138,6 +138,15 @@
   <a href="https://www.openfaas.com/" target="_blank"> 
     <img src="https://blog.alexellis.io/content/images/2017/08/faas_side.png" alt="openfaas" width="120" height="40"/> 
   </a>
+  <a href="https://redis.io/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="redis" width="120" height="40"/> 
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/> 
+  </a>
+  <a href="https://mqtt.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" alt="mqtt" width="120" height="40"/> 
+  </a>
 <!--   <a href="https://github.com/apache/camel-karavan" target="_blank"> 
     <img src="https://camel-karavan.gallerycdn.vsassets.io/extensions/camel-karavan/karavan/3.21.0/1688902428647/Microsoft.VisualStudio.Services.Icons.Default" alt="camelkaravan" width="50" height="80"/> 
   </a> -->
