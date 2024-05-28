@@ -26,6 +26,9 @@
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -78,11 +81,14 @@
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="70" height="40"/> 
   </a>
+  <a href="https://nestjs.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="70" height="40"/> 
+  </a>
   <a href="https://nodejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="70" height="40"/> 
+    <img src="https://www.svgrepo.com/show/353724/express.svg" alt="expressjs" width="70" height="50"/> 
   </a>
   <a href="https://ejs.co/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="ejs" width="40" height="40"/> 
@@ -129,9 +135,6 @@
   <a href="https://camel.apache.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Apache_Camel_Logo.svg" alt="camel" width="140" height="40"/> 
   </a>
-  <a href="https://camel.apache.org/camel-k/2.0.x/" target="_blank"> 
-    <img src="https://camel.apache.org/_/img/knative-81c3109183.svg" alt="camelk" width="60" height="40"/> 
-  </a>
   <a href="https://github.com/apache/camel-karavan" target="_blank"> 
     <img src="https://camel.apache.org/blog/2022/04/camel-karavan-0.0.14/karavan-logo-light.png" alt="camelkaravan" width="120" height="40"/> 
   </a>
@@ -143,6 +146,9 @@
   </a>
   <a href="https://kafka.apache.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/> 
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" alt="rabbitmq" width="150" height="40"/> 
   </a>
   <a href="https://mqtt.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" alt="mqtt" width="120" height="40"/> 
