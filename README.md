@@ -2,7 +2,7 @@
 
 - 🏢 Co-Founder of Overpath, a startup that was forged after winning the <a href="https://www.cassini.eu/hackathons/winners-May-2022" target="_blank">3rd EU CASSINI Hackathon</a> on April, 2022.
 - 👀 I’m interested in Software, Cloud, Aerospace Engineering, Control Theory & Robotics, Computer Vision and Business
-- 🌱 I’m currently on my way to obtaining N2 (C1 equivalent) in Japanese and am working in Tokyo as an R&D Cloud Engineer :japan::jp: 
+- 🌱 I’m currently on my way to obtaining N2 (C1+ equivalent) in Japanese and am working in Cephalgo, FR, as Software Lead & CPO 
 - 📫 How to reach me: costopoulos.constantinos@gmail.com
 
 
@@ -93,6 +93,12 @@
   <a href="https://ejs.co/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="ejs" width="40" height="40"/> 
   </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> 
+  </a>
   <a href="https://unity.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="80" height="40"/> 
   </a>
@@ -110,9 +116,6 @@
   </a>
   <a href="https://protege.stanford.edu/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/2002036/31841863-4d5774d2-b5e3-11e7-857f-bc0f1b00bb0e.jpg" alt="protege" width="40" height="40"/> 
-  </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="aws" width="40" height="40"/> 
@@ -145,7 +148,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="redis" width="120" height="40"/> 
   </a>
   <a href="https://kafka.apache.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" alt="kafka" width="40" height="40"/> 
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" alt="rabbitmq" width="150" height="40"/> 
