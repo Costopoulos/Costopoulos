@@ -2,7 +2,8 @@
 
 - 🏢 Co-Founder of Overpath, a startup that was forged after winning the <a href="https://www.cassini.eu/hackathons/winners-May-2022" target="_blank">3rd EU CASSINI Hackathon</a> on April, 2022.
 - 👀 I’m interested in Software, Cloud, Aerospace Engineering, Control Theory & Robotics, Computer Vision and Business
-- 🌱 I’m currently on my way to obtaining N2 (C1+ equivalent) in Japanese and am working in Cephalgo, FR, as Software Lead & CPO 
+- 🌱 Building an AI-therapy assistant full time as CPO & Software Lead in Cephalgo, FR.
+- 🤓 I’m currently on my way to obtaining N2 (C1+ equivalent) in Japanese and learning Spanish too.
 - 📫 How to reach me: costopoulos.constantinos@gmail.com
 
 
@@ -11,7 +12,6 @@
 <p>
 <a href="https://github.com/Costopoulos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/constantinos-costopoulos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<!-- <a href="https://www.instagram.com/costopoulos_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  -->
 </p>
 </div>
 
@@ -81,6 +81,9 @@
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="70" height="40"/> 
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastapi" width="80" height="40"/> 
+  </a>
   <a href="https://nestjs.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="70" height="40"/> 
   </a>
@@ -95,6 +98,9 @@
   </a>
   <a href="https://react.dev/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://vite.dev" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40"/> 
