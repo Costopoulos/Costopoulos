@@ -69,12 +69,12 @@
     <td align="center"><a href="https://www.rstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="80" height="40"/></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png?20170912170050" alt="aws" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://aws.amazon.com/" target="_blank"><img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="aws" width="40" height="40"/></a></td>
     <td align="center"><a href="https://azure.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/></a></td>
     <td align="center"><a href="https://cloud.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="gcp" width="80" height="40"/></a></td>
     <td align="center"><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-768x432.png" alt="docker" width="80" height="40"/></a></td>
-    <td align="center"><a href="https://kubernetes.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1200px-Kubernetes_logo.svg.png?20171007185746" alt="kubernetes" width="80" height="40"/></a></td>
+    <td align="center"><a href="https://kubernetes.io/" target="_blank"><img src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg" alt="kubernetes" width="80" height="40"/></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://redis.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" alt="redis" width="80" height="40"/></a></td>
