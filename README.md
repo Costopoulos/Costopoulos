@@ -93,3 +93,13 @@
     <td></td>
   </tr>
 </table>
+
+<h3 align="left"><a href="https://gitfut.com/" target="_blank">GitFut</a>:</h3>
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/0a61f97e-13c1-4c72-8c4a-57cc89017242"
+    alt="GitFut card"
+    width="220"
+  />
+</p>
+
